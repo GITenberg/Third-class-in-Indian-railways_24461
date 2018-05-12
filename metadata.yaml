@@ -1,0 +1,32 @@
+_repo: Third-class-in-Indian-railways_24461
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gandhi, Mahatma
+    aliases:
+    - Gandhi, M. K.
+    - Gandhi, Mohandas Karamchand
+    birthdate: 1869
+    deathdate: 1948
+    gutenberg_agent_id: '3490'
+    url: http://www.gutenberg.org/2009/agents/3490
+    wikipedia: http://en.wikipedia.org/wiki/Mahatma_Gandhi
+description: ''
+gutenberg_bookshelf: India
+gutenberg_issued: '2008-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24461'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pamphlets'
+- !lcc 'DS'
+- !lcsh 'India -- History -- British occupation, 1765-1947'
+title: Third class in Indian railways
+url: http://www.gutenberg.org/ebooks/24461
